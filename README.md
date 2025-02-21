@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Motasim Foad</h1>
+<h1 align="center">Hi 👋, I'm TakumiSakamoto</h1>
 <h3 align="center">Product and Project manager with software engineering base!</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motasimfoad" alt="motasimfoad" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://motasimfoad.com/](https://motasimfoad.com/)
-
-- 📫 How to reach me **hi@motasimfoad.com/**
 
 
 <h3 align="left">Languages and Tools:</h3>

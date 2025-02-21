@@ -11,5 +11,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=motasimfoad&show_icons=true&locale=en" alt="motasimfoad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motasimfoad&" alt="motasimfoad" /></p>
+<a href="https://vercel.com/takumisakamotos-projects/portfolio">My portfolio</a>
 

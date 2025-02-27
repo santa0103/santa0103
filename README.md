@@ -10,5 +10,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=motasimfoad&show_icons=true&locale=en" alt="motasimfoad" /></p>
 
 👋  <a href="https://portfolio-three-ivory-84.vercel.app">My Html-css portfolio link</a>
-👋  <a href="https://https://react-portfolio-lake-six.vercel.app">My React portfolio link</a>
+👋  <a href="https://react-portfolio-lake-six.vercel.app">My React portfolio link</a>
 

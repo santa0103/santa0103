@@ -119,14 +119,7 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
+   
   </tr>
 </table>
 <br/>

@@ -8,10 +8,6 @@
       <br>Nest.js
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
     </td>
@@ -123,7 +119,10 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
     </td>
-   
+    <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
+      <br>DeFi
+    </td>
   </tr>
 </table>
 <br/>

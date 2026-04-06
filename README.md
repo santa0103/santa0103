@@ -141,6 +141,10 @@
       <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="gitlab" />
       <br>GitLab
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="vercel" />
+      <br>Vercel
+    </td>
   </tr>
 </table>
 <br/>

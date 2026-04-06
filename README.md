@@ -50,18 +50,6 @@
       <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="./anchor.png" alt="Anchor" width="55" height="55" />
-      <br>Anchor
-    </td>
-    <td align="center" width="90">
-      <img src="./foundry.png" alt="icon" width="55" height="55" />
-      <br>Foundry
-    </td>
-    <td align="center" width="90">
-      <img src="./hardhat.svg" alt="HardHat" width="55" height="55" />
-      <br>HardHat
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
       <br>Rails
     </td>
@@ -77,8 +65,6 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>Node.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
@@ -91,6 +77,8 @@
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
       <br>Nuxt.js
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular

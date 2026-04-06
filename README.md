@@ -129,6 +129,18 @@
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=xd" width="45" height="45" alt="xd" />
+      <br>XD
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="gitlab" />
+      <br>GitLab
+    </td>
   </tr>
 </table>
 <br/>

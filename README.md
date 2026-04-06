@@ -31,6 +31,10 @@
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
 </tr>
 <tr>
     <td align="center" width="90">
@@ -68,10 +72,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
     </td>
   </tr>
   <tr>
@@ -148,10 +148,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
     </td>
   </tr>
 </table>

@@ -4,6 +4,28 @@
 <table align="center">
 <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
+      <br>Sass
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
+</tr>
+<tr>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
       <br>Nest.js
     </td>
@@ -85,15 +107,15 @@
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
       <br>Android
     </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
       <br>Ruby
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" title="GoLang" alt="GoLang " width="45" height="45"/>
-      <br>GoLang
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
@@ -118,6 +140,14 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="90">
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
